@@ -1,0 +1,31 @@
+.A {
+    background-color: black;
+    height: 30vh;
+    width: 80vh;
+}
+
+.A .D {
+    background-color: rgb(146, 236, 169);
+    width: 960px;
+    height: 70%;
+}
+
+.A .D .E {
+    background-color: #983129;
+    width: 20vh;
+    height: 30vh;
+}
+
+ .A .B {
+    background-color: rgb(199, 53, 199);
+    height: 400px;
+    width: 500px;
+}
+
+.B .C {
+    background-color: #935643;
+    color: black;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 40;
+}
